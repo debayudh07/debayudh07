@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debayudh07" alt="debayudh07" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-six-ashy.vercel.app/](https://portfolio2-six-ashy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deba07.vercel.app/](https://deba07.vercel.app/)
 
 - 📫 How to reach me *debayudhbasu@gmail.com*
 
