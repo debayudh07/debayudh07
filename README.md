@@ -65,32 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=debayudh07&theme=tokyonight&cache_seconds=60"/>
 </p>
 
----
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debayudh07&theme=tokyonight&margin-w=5&margin-h=5" />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p>
-  <a href="https://github.com/debayudh07">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=debayudh07&repo=YOUR-REPO&theme=tokyonight" />
-  </a>
-</p>
-
-*(Tell me your top 2–3 repos and I’ll add them here beautifully.)*
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/debayudh07/debayudh07/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## ✨ Fun Fact
 > “I love building things that break the rules — then securing them so no one else can.”
