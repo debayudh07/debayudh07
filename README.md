@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🔭 I build **Full Stack applications**, **Web3 dApps**, and **Secure backend systems**
 - 🌱 Currently exploring **Rust**, **Blockchain Security**, and **AI-integrated systems**
-- 🌐 Portfolio: **https://deba07.vercel.app/**
+- 🌐 Portfolio: **https://deba007.vercel.app/**
 - 📫 Reach me at: **debayudhbasu@gmail.com**
 
 ---
